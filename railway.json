@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "composer install"
+  },
+  "deploy": {
+    "startCommand": "vendor/bin/heroku-php-apache2"
+  }
+}

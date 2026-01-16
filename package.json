@@ -1,0 +1,10 @@
+{
+  "name": "hoe",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "php index.php"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
